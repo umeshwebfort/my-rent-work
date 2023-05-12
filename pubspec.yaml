@@ -102,12 +102,12 @@ flutter:
         - asset: assets/fonts/Lobster-Regular.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-   - family: Signatra
-      fonts:
-        - asset: assets/fonts/Signatra.ttf
-   - family: Varela
-      fonts:
-        - asset: assets/fonts/VarelaRound-Regular.ttf
+  #  - family: Signatra
+  #     fonts:
+  #       - asset: assets/fonts/Signatra.ttf
+  #  - family: Varela
+  #     fonts:
+  #       - asset: assets/fonts/VarelaRound-Regular.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
